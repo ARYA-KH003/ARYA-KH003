@@ -1,21 +1,4 @@
-Hello Coders
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-21156
-Fork on GitHub
-6590
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
-<h1 align="center">Hi 👋, I'm ARYA</h1>
+<h1 align="center">Hi Coders👋, I'm ARYA</h1>
 <h3 align="center">A Data Scientist from ITALY</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arya-kh003&label=Profile%20views&color=0e75b6&style=flat" alt="arya-kh003" /> </p>
