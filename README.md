@@ -17,7 +17,9 @@
 <p align="left">
 <a href="https://linkedin.com/in/arya-khosravi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arya-khosravi" height="30" width="40" /></a>
 <a href="https://instagram.com/__itsarya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__itsarya" height="30" width="40" /></a>
-<a href="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/rss.svg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/rss.svg" height="30" width="40" /></a>
+<a href="https://yourwebsite.com/rss.xml" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="RSS Feed" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
