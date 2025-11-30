@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ARYA and I'm a Data Scientist, from Italy.</h2>
+<h2 align="left">Hi 👋! My name is ARYA and I'm a Software Engineer, from Italy.</h2>
 
 ###
 
